@@ -1,0 +1,6 @@
+input:required:invalid{
+    color : red;
+}
+input:type:invalid{
+    color : red;
+}

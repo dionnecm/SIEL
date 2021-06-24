@@ -1,0 +1,28 @@
+Tipo de Tarefa;Modelo;Comp1;Comp2;Comp3;Comp4;Comp5;Comp6;Comp7;Comp8;Comp9;Comp10;Comp11;Comp12;Comp13;Comp14
+AB;basketball;aerobics;football;bowling;;;;;;;;;;;;;;;
+AB;biking;running;volleyball;karate;;;;;;;;;;;;;;;
+AB;aerobics;football;bowling;weight training;;;;;;;;;;;;;;;
+AB;volleyball;karate;basketball;aerobics;;;;;;;;;;;;;;;
+AB;karate;football;bowling;weight training;;;;;;;;;;;;;;;
+AB;weight training;aerobics;biking;football;;;;;;;;;;;;;;;
+AB;bowling;weight training;running;volleyball;;;;;;;;;;;;;;;
+AB;running;basketball;aerobics;football;;;;;;;;;;;;;;;
+AB;football;basketball;running;volleyball;;;;;;;;;;;;;;;
+AC;basketball;aerobics;football;bowling;;;;;;;;;;;;;;;
+AC;biking;running;volleyball;karate;;;;;;;;;;;;;;;
+AC;aerobics;football;bowling;weight training;;;;;;;;;;;;;;;
+AC;volleyball;karate;basketball;aerobics;;;;;;;;;;;;;;;
+AC;karate;football;bowling;weight training;;;;;;;;;;;;;;;
+AC;weight training;aerobics;biking;football;;;;;;;;;;;;;;;
+AC;bowling;weight training;running;volleyball;;;;;;;;;;;;;;;
+AC;running;basketball;aerobics;football;;;;;;;;;;;;;;;
+AC;football;basketball;running;volleyball;;;;;;;;;;;;;;;
+CB;basketball;aerobics;football;bowling;;;;;;;;;;;;;;;
+CB;biking;running;volleyball;karate;;;;;;;;;;;;;;;
+CB;aerobics;football;bowling;weight training;;;;;;;;;;;;;;;
+CB;volleyball;karate;basketball;aerobics;;;;;;;;;;;;;;;
+CB;karate;football;bowling;weight training;;;;;;;;;;;;;;;
+CB;weight training;aerobics;biking;football;;;;;;;;;;;;;;;
+CB;bowling;weight training;running;volleyball;;;;;;;;;;;;;;;
+CB;running;basketball;aerobics;football;;;;;;;;;;;;;;;
+CB;football;basketball;running;volleyball;;;;;;;;;;;;;;;

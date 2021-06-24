@@ -1,0 +1,12 @@
+Tipo de Tarefa;Modelo;Comp1;Comp2;Comp3;Comp4;Comp5;Comp6;Comp7;Comp8;Comp9;Comp10;Comp11;Comp12;Comp13;Comp14
+CB;i;he;she;;;;;;;;;;;;;;;
+CB;they;he;we;;;;;;;;;;;;;;;
+CB;he;i;we;;;;;;;;;;;;;;;
+CB;you;he;she;;;;;;;;;;;;;;;
+AC;they;he;you;;;;;;;;;;;;;;;
+AC;i;we;it;;;;;;;;;;;;;;;
+AC;it;i;we;;;;;;;;;;;;;;;
+B;you;they;it;;;;;;;;;;;;;;;
+BB;he;i;you;;;;;;;;;;;;;;;
+BB;they;we;i;;;;;;;;;;;;;;;
+BB;it;she;you;;;;;;;;;;;;;;;

@@ -1,0 +1,22 @@
+Tipo de Tarefa;Modelo;Comp1;Comp2;Comp3;Comp4;Comp5;Comp6;Comp7;Comp8;Comp9;Comp10;Comp11;Comp12;Comp13;Comp14
+AB;i;he;she;we;it;;;;;;;;;;;;;;;
+AB;you;he;they;we;she;;;;;;;;;;;;;;;
+AB;he;it;she;we;you;;;;;;;;;;;;;;;
+AB;she;it;we;they;i;;;;;;;;;;;;;;;
+AB;it;i;he;she;we;;;;;;;;;;;;;;;
+AB;we;i;it;she;they;;;;;;;;;;;;;;;
+AB;they;it;we;he;i;;;;;;;;;;;;;;;
+AC;i;he;she;we;it;;;;;;;;;;;;;;;
+AC;you;he;they;we;she;;;;;;;;;;;;;;;
+AC;he;it;she;we;you;;;;;;;;;;;;;;;
+AC;she;it;we;they;i;;;;;;;;;;;;;;;
+AC;it;i;he;she;we;;;;;;;;;;;;;;;
+AC;we;i;it;she;they;;;;;;;;;;;;;;;
+AC;they;it;we;he;i;;;;;;;;;;;;;;;
+CB;i;he;she;we;it;;;;;;;;;;;;;;;
+CB;you;he;they;we;she;;;;;;;;;;;;;;;
+CB;he;it;she;we;you;;;;;;;;;;;;;;;
+CB;she;it;we;they;i;;;;;;;;;;;;;;;
+CB;it;i;he;she;we;;;;;;;;;;;;;;;
+CB;we;i;it;she;they;;;;;;;;;;;;;;;
+CB;they;it;we;he;i;;;;;;;;;;;;;;;

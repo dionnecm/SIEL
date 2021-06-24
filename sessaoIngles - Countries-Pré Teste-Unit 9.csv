@@ -1,0 +1,25 @@
+Tipo de Tarefa;Modelo;Comp1;Comp2;Comp3;Comp4;Comp5;Comp6;Comp7;Comp8;Comp9;Comp10;Comp11;Comp12;Comp13;Comp14
+AB;spanish;turkish;chinese;portuguese;;;;;;;;;;;;;;;
+AB;japanese;italian;korean;russian;;;;;;;;;;;;;;;
+AB;turkish;chinese;portuguese;japanese;;;;;;;;;;;;;;;
+AB;chinese;portuguese;japanese;italian;;;;;;;;;;;;;;;
+AB;portuguese;japanese;spanish;russian;;;;;;;;;;;;;;;
+AB;italian;chinese;portuguese;spanish;;;;;;;;;;;;;;;
+AB;korean;portuguese;japanese;turkish;;;;;;;;;;;;;;;
+AB;russian;turkish;chinese;portuguese;;;;;;;;;;;;;;;
+AC;spanish;turkish;chinese;portuguese;;;;;;;;;;;;;;;
+AC;japanese;italian;korean;russian;;;;;;;;;;;;;;;
+AC;turkish;chinese;portuguese;japanese;;;;;;;;;;;;;;;
+AC;chinese;portuguese;japanese;italian;;;;;;;;;;;;;;;
+AC;portuguese;japanese;spanish;russian;;;;;;;;;;;;;;;
+AC;italian;chinese;portuguese;spanish;;;;;;;;;;;;;;;
+AC;korean;portuguese;japanese;turkish;;;;;;;;;;;;;;;
+AC;russian;turkish;chinese;portuguese;;;;;;;;;;;;;;;
+CB;spanish;turkish;chinese;portuguese;;;;;;;;;;;;;;;
+CB;japanese;italian;korean;russian;;;;;;;;;;;;;;;
+CB;turkish;chinese;portuguese;japanese;;;;;;;;;;;;;;;
+CB;chinese;portuguese;japanese;italian;;;;;;;;;;;;;;;
+CB;portuguese;japanese;spanish;russian;;;;;;;;;;;;;;;
+CB;italian;chinese;portuguese;spanish;;;;;;;;;;;;;;;
+CB;korean;portuguese;japanese;turkish;;;;;;;;;;;;;;;
+CB;russian;turkish;chinese;portuguese;;;;;;;;;;;;;;;

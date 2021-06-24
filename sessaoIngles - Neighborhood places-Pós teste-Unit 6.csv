@@ -1,0 +1,25 @@
+Tipo de Tarefa;Modelo;Comp1;Comp2;Comp3;Comp4;Comp5;Comp6;Comp7;Comp8;Comp9;Comp10;Comp11;Comp12;Comp13;Comp14
+AB;gym;supermarket;hospital;school;;;;;;;;;;;;;;;
+AB;supermarket;book store;museum;drugstore;;;;;;;;;;;;;;;
+AB;hospital;drugstore;restaurant;school;;;;;;;;;;;;;;;
+AB;school;gym;supermarket;hospital;;;;;;;;;;;;;;;
+AB;museum;drugstore;restaurant;school;;;;;;;;;;;;;;;
+AB;book store;gym;supermarket;school;;;;;;;;;;;;;;;
+AB;drugstore;restaurant;school;hospital;;;;;;;;;;;;;;;
+AB;museum;book store;gym;museum;;;;;;;;;;;;;;;
+AC;gym;supermarket;hospital;school;;;;;;;;;;;;;;;
+AC;supermarket;book store;museum;drugstore;;;;;;;;;;;;;;;
+AC;hospital;drugstore;restaurant;school;;;;;;;;;;;;;;;
+AC;school;gym;supermarket;hospital;;;;;;;;;;;;;;;
+AC;museum;drugstore;restaurant;school;;;;;;;;;;;;;;;
+AC;book store;gym;supermarket;school;;;;;;;;;;;;;;;
+AC;drugstore;restaurant;school;hospital;;;;;;;;;;;;;;;
+AC;museum;book store;gym;museum;;;;;;;;;;;;;;;
+CB;gym;supermarket;hospital;school;;;;;;;;;;;;;;;
+CB;supermarket;book store;museum;drugstore;;;;;;;;;;;;;;;
+CB;hospital;drugstore;restaurant;school;;;;;;;;;;;;;;;
+CB;school;gym;supermarket;hospital;;;;;;;;;;;;;;;
+CB;museum;drugstore;restaurant;school;;;;;;;;;;;;;;;
+CB;book store;gym;supermarket;school;;;;;;;;;;;;;;;
+CB;drugstore;restaurant;school;hospital;;;;;;;;;;;;;;;
+CB;museum;book store;gym;museum;;;;;;;;;;;;;;;

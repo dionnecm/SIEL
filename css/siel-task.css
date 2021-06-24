@@ -1,0 +1,53 @@
+
+
+.p-sobre > p {
+	font-size: 20pt !important;
+}
+body {
+    background-color: #eee;
+}
+.botao{
+  font-size: 30px;
+  cursor: pointer;
+}
+.botao:hover {
+    background-color: #32cd32;
+}
+.page-header .container{
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.marketing{
+  padding-top: 30px;
+}
+
+.marketing .coluna{
+  text-align: center;
+}
+
+.vertical-center{
+  min-height: 100%;
+  min-height: 100vh;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.reforco{
+  text-align: center;
+}
+#soletrando{
+  min-height: 70px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+#p-bar{
+  text-align: center;
+  padding-top: 100px;
+}
+
+#hidden{
+  display: none;
+}
